@@ -1,26 +1,22 @@
-#*********************github 2024-05-28 update********************
+#*********************github 2024-05-29 update********************
 #******* get latest hosts: http://blog.yoqi.me/lyq/16489.html
-20.190.190.195	login.live.com
-13.107.213.69	acctcdn.msauth.net
+40.126.62.131	login.live.com
+13.107.246.69	acctcdn.msauth.net
 13.107.42.22	account.live.com
-23.3.86.187	account.microsoft.com
-96.7.232.10	gameclipscontent-d2009.xboxlive.com
-96.7.128.75	images-eds.xboxlive.com
-23.45.173.137	xbl-smooth.xboxlive.com
-23.32.228.9	titlehub.xboxlive.com
-96.7.128.48	compass.xboxlive.com
-23.32.228.9	xnotify.xboxlive.com
-52.165.145.141	activityhub.xboxlive.com
-96.7.232.10	images-eds-ssl.xboxlive.com
-199.46.35.124	rta.xboxlive.com
-23.62.176.9	peoplehub.xboxlive.com
+23.35.30.206	account.microsoft.com
+23.206.188.205	images-eds.xboxlive.com
+23.217.118.164	xbl-smooth.xboxlive.com
+23.35.28.9	titlehub.xboxlive.com
+23.206.188.199	compass.xboxlive.com
+23.35.28.9	xnotify.xboxlive.com
+13.66.204.157	activityhub.xboxlive.com
+23.35.28.9	images-eds-ssl.xboxlive.com
+199.46.35.126	rta.xboxlive.com
+23.35.28.9	peoplehub.xboxlive.com
 52.242.98.79	editorial.xboxlive.com
 52.252.254.179	titlestorage.xboxlive.com
-184.28.98.97	officecdn.microsoft.com
-23.3.85.202	store-images.s-microsoft.com
-96.7.233.218	storeedgefd.dsx.mp.microsoft.com
-23.206.229.77	xvcf1.xboxlive.com
+68.142.107.88	officecdn.microsoft.com
+23.62.177.125	store-images.s-microsoft.com
+23.35.30.86	storeedgefd.dsx.mp.microsoft.com
+23.206.229.69	xvcf1.xboxlive.com
 23.206.229.77	xvcf2.xboxlive.com
-23.206.229.71	tlu.dl.delivery.mp.microsoft.com
-199.232.210.172	dl.delivery.mp.microsoft.com
-23.206.229.78	assets1.xboxlive.cn
